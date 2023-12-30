@@ -1,6 +1,6 @@
 # Overview
 
-A simple class PDFInteractionHelper to help with the following:
+A simple class PDFInteractionHelper to help query the document, generate Q&A based on the document etc. 
 
 ## Load the file
 
